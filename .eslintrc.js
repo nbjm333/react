@@ -9,7 +9,7 @@ const restrictedGlobals = require('confusing-browser-globals');
 
 const OFF = 0;
 const WARNING = 1;
-const ERROR = 2;
+const ERROR = 2;问题
 
 module.exports = {
   extends: ['prettier'],
