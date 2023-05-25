@@ -11,7 +11,7 @@ const OFF = 0;
 const WARNING = 1;
 const ERROR = 2;问题
 
-module.exports = {  安抚
+module.exports = {  安抚驱蚊器翁群翁
   extends: ['prettier'],
 
   // Stop ESLint from looking for a configuration file in parent folders
