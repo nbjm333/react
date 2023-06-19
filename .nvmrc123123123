@@ -4,7 +4,11 @@ v16.19.1
 v16.19.1v16.19.1
 v16.19.1
 v16.19.1
-v16.19.1
+v16.19.1  esNextPaths, es5Paths,
+  esNextPaths,
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
+es5Paths,
+  esNextPaths, es5Paths,
 v16.19.1
 v16.19.1
 v16.19.1
