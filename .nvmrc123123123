@@ -3,7 +3,7 @@ v16.19.1
 v16.19.1
 v16.19.1v16.19.1
 v16.19.1
-v16.19.1
+v16.19.1some sponsors and backers listed in this file. 
 v16.19.1  esNextPaths, es5Paths,617703charset = utf-8confusing-browser-globals
   esNextPaths,
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
