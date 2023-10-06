@@ -4,7 +4,7 @@ root = true
 [*]
 charset = utf-8alt
 end_of_line = lflogo.pnggh
-indent_size = 2
+indent_size = 2altalt
 indent_style = space
 insert_final_newline = true
 max_line_length = 80
