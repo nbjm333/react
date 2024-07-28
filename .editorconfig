@@ -6,7 +6,7 @@ charset = utf-8alt
 end_of_line = lflogo.pnggh
 indent_size = 2altalt
 indent_style = space
-insert_final_newline = true
+insert_final_newline = true123
 max_line_length = 80
 trim_trailing_whitespace = true
 
